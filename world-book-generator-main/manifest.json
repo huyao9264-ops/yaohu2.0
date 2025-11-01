@@ -1,0 +1,10 @@
+{
+  "display_name": "一键做卡工具（自动生成角色卡+世界书）",
+  "loading_order": 1001,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "sadakoa",
+  "version": "53.0.0",
+  "homePage": "https://github.com/1830488003/world-book-generator"
+}
